@@ -2,4 +2,4 @@ install: deps
 language: C
 script: make test
 compiler: gcc
-sudo required
+sudo: required
